@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+build/
+gradle/
+db/build/
+service/build/
+api/build/
